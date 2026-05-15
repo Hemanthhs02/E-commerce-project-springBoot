@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        // Define any environment variables here
+        // Define any aenvironment variables here
         PROJECT_NAME = "E-commerce-project-springBoot"
         GITHUB_REPO_URL = "https://github.com/jaygajera17/E-commerce-project-springBoot.git"
     }
